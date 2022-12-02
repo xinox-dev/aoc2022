@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_1 as day
+import lib.day_2 as day
 
-DAY = "1"
-EXPECTED_TEST = 41000
-FUNC = day.calorie_counter
+DAY = "2"
+EXPECTED_TEST = 15
+FUNC = day.count_score_of_first_strategy
 
 
 def main():
