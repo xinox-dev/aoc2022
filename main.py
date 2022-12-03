@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_2 as day
+import lib.day_3 as day
 
-DAY = "2"
-EXPECTED_TEST = 15
-FUNC = day.count_score_of_first_strategy
+DAY = "3"
+EXPECTED_TEST = 70
+FUNC = day.sum_values_of_badges
 
 
 def main():
