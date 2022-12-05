@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_3 as day
+import lib.day_4 as day
 
-DAY = "3"
-EXPECTED_TEST = 70
-FUNC = day.sum_values_of_badges
+DAY = "4"
+EXPECTED_TEST = 4
+FUNC = day.overlaps_pairs
 
 
 def main():
