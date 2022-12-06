@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_5 as day
+import lib.day_6 as day
 
-DAY = "5"
-EXPECTED_TEST = "MCD"
-FUNC = day.move_stack_of_crates
+DAY = "6"
+EXPECTED_TEST = 19
+FUNC = day.start_of_message_marker
 
 
 def main():
