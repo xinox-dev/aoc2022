@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_4 as day
+import lib.day_5 as day
 
-DAY = "4"
-EXPECTED_TEST = 4
-FUNC = day.overlaps_pairs
+DAY = "5"
+EXPECTED_TEST = "MCD"
+FUNC = day.move_stack_of_crates
 
 
 def main():

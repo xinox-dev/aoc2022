@@ -9,7 +9,7 @@ class Utils:
         lines = []
 
         for line in f.readlines():
-            lines.append(line.strip())
+            lines.append(line.strip('\n'))
 
         f.close()
 
