@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_6 as day
+import lib.day_7 as day
 
-DAY = "6"
-EXPECTED_TEST = 19
-FUNC = day.start_of_message_marker
+DAY = "7"
+EXPECTED_TEST = 95437
+FUNC = day.directories_of_100k
 
 
 def main():
