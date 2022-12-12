@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_9 as day
+import lib.day_10 as day
 
-DAY = "9"
-EXPECTED_TEST = 1
-FUNC = day.mark_of_large_rope
+DAY = "10"
+EXPECTED_TEST = None
+FUNC = day.draw_screen
 
 
 def main():
