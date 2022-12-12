@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_10 as day
+import lib.day_11 as day
 
-DAY = "10"
-EXPECTED_TEST = None
-FUNC = day.draw_screen
+DAY = "11"
+EXPECTED_TEST = 2567194800
+FUNC = day.s
 
 
 def main():
