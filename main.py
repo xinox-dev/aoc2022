@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_7 as day
+import lib.day_8 as day
 
-DAY = "7"
-EXPECTED_TEST = 95437
-FUNC = day.directories_of_100k
+DAY = "8"
+EXPECTED_TEST = 8
+FUNC = day.highest_scenic_score
 
 
 def main():
