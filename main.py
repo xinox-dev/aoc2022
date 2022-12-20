@@ -1,10 +1,10 @@
 import time
 from utils.Utils import Utils
-import lib.day_12 as day
+import lib.day_13 as day
 
-DAY = "12"
-EXPECTED_TEST = 29
-FUNC = day.count_steps_in_faster_road
+DAY = "13"
+EXPECTED_TEST = 140
+FUNC = day.count_right_packets
 
 
 def main():
